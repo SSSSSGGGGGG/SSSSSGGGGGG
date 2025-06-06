@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SSSSSGGGGGG 
-- 👀 I’m interested in physics, C/C++, Python and Matlab, etc.
+- 👀 I’m interested in physics, Python, Matlab, and basic in C/C++, etc.
 - 🌱 I’m currently working on Structure Light as a PhD student.
 - 💞️ My codes are always working, but sometimes the hardware is needed.
 - 📫 I am open to your questions about my code.
