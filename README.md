@@ -2,7 +2,7 @@
 - 👀 I’m interested in physics, Python, Matlab, and basic in C/C++, etc.
 - 🌱 I’m currently working on Structured Light as a PhD student.
 - 💞️ My codes are always working, but sometimes the hardware is needed.
-- 📫 I am open to your questions about my code.
+- 📫 I am open to any questions about my code.
 
 
 <!---
