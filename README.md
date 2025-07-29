@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SSSSSGGGGGG 
 - 👀 I’m interested in physics, Python, Matlab, and basic in C/C++, etc.
-- 🌱 I’m currently working on Structured Light as a PhD student.
+- 🌱 PhD in Structured Light.
 - 💞️ My codes are always working, but sometimes the hardware is needed.
 - 📫 I am open to any questions about my code.
 
