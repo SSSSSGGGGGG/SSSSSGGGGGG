@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SSSSSGGGGGG 
-- 👀 I’m interested in physics, Python, Matlab, and basic in C/C++, etc.
+- 👀 I’m interested in physics, Python, MATLAB, and basic C/C++, etc.
 - 🌱 PhD in Structured Light.
-- 💞️ My codes are always working, but sometimes the hardware is needed.
+- 💞️ My code is always working, but sometimes hardware is needed.
 - 📫 I am open to any questions about my code.
 
 
